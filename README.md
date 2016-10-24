@@ -1,2 +1,37 @@
-# FunnyBreakout
-å¤‰ãªãƒ–ãƒ­ãƒƒã‚¯å´©ã—
+# •Ï‚ÈƒuƒƒbƒN•ö‚µ
+
+ƒ{[ƒ‹‚ªƒuƒƒbƒN‚âƒo[‚É“–‚½‚é‚ÆA’¼Š´‚É”½‚µ‚Äƒ‰ƒ“ƒ_ƒ€‚É’µ‚Ë•Ô‚éƒuƒƒbƒN•ö‚µ‚Å‚·B
+HSP »B
+
+2011 ”N‚Ì‚êÕ‚Å“WŽ¦‚µ‚Ü‚µ‚½B
+
+## ‘€ì•û–@ (ƒL[ƒ{[ƒh‚Ì‚Ý)
+@[©]/[¨]: ƒo[‚Ì¶‰EˆÚ“®
+@[SPACE]: ƒ{[ƒ‹‚Ì”­ŽË
+@[ESC]: ‹­§“I‚ÉƒQ[ƒ€ƒI[ƒo[
+
+## Žd—l
+- ƒXƒe[ƒW: ‘S 6 –Ê
+- ƒ{[ƒ‹
+	- ‰EãA‰E‰ºA¶ãA¶‰º‚Ì 4 •ûŒü‚ÉˆÚ“®
+	- ƒuƒƒbƒN‚âƒo[‚ÉÕ“Ë‚·‚é‚Æƒ‰ƒ“ƒ_ƒ€‚ÉˆÚ“®‚·‚é•ûŒü‚ªŒˆ‚Ü‚é
+	- ƒ{[ƒ‹‚ª‰æ–Ê‰º’[‚Ü‚ÅˆÚ“®‚µ‚½Žž‚Ìƒyƒiƒ‹ƒeƒB
+		- ƒXƒRƒA: 5 % Œ¸
+		- Žc‚èŽžŠÔ: 10 % Œ¸
+- ƒuƒƒbƒN
+	- Ží—Þ
+		- ‰©‹àƒuƒƒbƒN (‰©F)
+		- ’ÊíƒuƒƒbƒN (‰©FˆÈŠO)
+	- ‚Ç‚¿‚ç‚à 1 “xƒ{[ƒ‹‚ð“–‚Ä‚é‚ÆÁ‚¦‚é
+- ƒXƒRƒA
+	- ‰©‹àƒuƒƒbƒN (‰©F) ¨ Žc‚èŽžŠÔ‚Ì 10 % ‚ª‰ÁŽZ‚³‚ê‚é
+@@- ’ÊíƒuƒƒbƒN (‰©FˆÈŠO) ¨ 5 “_‰ÁŽZ
+	- ŠeƒXƒe[ƒW‚ÌƒnƒCƒXƒRƒA‚ª‹L˜^‚³‚ê‚é
+- §ŒÀŽžŠÔ
+	- ƒuƒƒbƒN 1 ‚Â‚É‚Â‚«–ñ 5 •b
+- I—¹ðŒ
+	- ƒuƒƒbƒN‚ð‚·‚×‚Ä”j‰ó‚·‚é‚ÆƒQ[ƒ€ƒNƒŠƒA
+	- §ŒÀŽžŠÔ‚ª 0 ‚É‚È‚é‚©A3 ƒ~ƒXˆÈ“à‚ÉƒQ[ƒ€ƒNƒŠƒA‚Å‚«‚È‚¢‚ÆƒQ[ƒ€ƒI[ƒo[
+
+## Šù’m‚ÌƒoƒO
+- [Alt]+[F4]‚·‚é‚Æ—Ž‚¿‚é
